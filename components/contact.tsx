@@ -124,7 +124,7 @@ export function Contact() {
         </div>
 
         <div className="mt-16 text-center">
-          <p className="text-muted-foreground">© 2024 Alex Chen. Built with Next.js and Tailwind CSS.</p>
+          <p className="text-muted-foreground">© 2024 Daniel saito. Built with Next.js and Tailwind CSS.</p>
         </div>
       </div>
     </section>

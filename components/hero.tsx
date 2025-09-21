@@ -36,7 +36,7 @@ export function Hero() {
           />
 
           <h1 className="text-5xl md:text-7xl font-bold mb-4 text-balance">
-            Hi, I'm <span className="text-primary animate-glow">Alex Chen</span>
+            Hi, I'm <span className="text-primary animate-glow">Daniel saito</span>
           </h1>
 
           <div className="text-2xl md:text-3xl text-muted-foreground mb-6 font-mono">
@@ -44,8 +44,8 @@ export function Hero() {
           </div>
 
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8 text-pretty">
-            I craft exceptional digital experiences with modern technologies. Passionate about clean code, innovative
-            solutions, and bringing ideas to life.
+            I craft exceptional digital experiences with modern technologies. Passionate about clean code, innovative solutions, and bringing ideas to life.
+I had   BlockChain technology of using smart contract
           </p>
         </div>
 
